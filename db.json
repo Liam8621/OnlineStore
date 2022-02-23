@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Mobile",
+      "image": "Apple_iPhone_13_128GB_Black.jpg",
+      "name": "iPhone13 128GB Black",
+      "price": 1229,
+      "skus": [
+        {
+          "sku": "17",
+          "color": "Black"
+        }
+      ],
+      "description": "iPhone 13. The most advanced dual-camera system ever on iPhone. Lightning-fast A15 Bionic chip. A big leap in battery life. Durable design. Superfast 5G.1 And a brighter Super Retina XDR display."
+    },
+    {
+      "id": 2,
+      "category": "Mobile",
+      "image": "Apple_iPhone_13_128GB_White.jpg",
+      "name": "iPhone13 128GB White",
+      "price": 1229,
+      "skus": [
+        {
+          "sku": "29",
+          "color": "White"
+        }
+      ],
+      "description": "iPhone 13. The most advanced dual-camera system ever on iPhone. Lightning-fast A15 Bionic chip. A big leap in battery life. Durable design. Superfast 5G.1 And a brighter Super Retina XDR display."
+    },
+    {
+      "id": 3,
+      "category": "Mobile",
+      "image": "Google_Pixel_6Pro_128GB_Green.jpg",
+      "name": "Pixel 6Pro 128GB Green",
+      "price": 1199,
+      "skus": [
+        {
+          "sku": "39",
+          "color": "Green"
+        }
+      ],
+      "description": "Meet Pixel 6, the Google 5G phone that's completely reimagined, inside and out.1 Powered by Tensor, Google’s first-ever processor, it’s fast, smart and secure. And it adapts to you."
+    },
+    {
+      "id": 4,
+      "category": "Mobile",
+      "image": "Google_Pixel_6Pro_128GB_White.jpg",
+      "name": "Pixel 6Pro 128GB White",
+      "price": 1199,
+      "skus": [
+        {
+          "sku": "45",
+          "color": "White"
+        }
+      ],
+      "description": "Meet Pixel 6, the Google 5G phone that's completely reimagined, inside and out.1 Powered by Tensor, Google’s first-ever processor, it’s fast, smart and secure. And it adapts to you."
+    },
+    {
+      "id": 5,
+      "category": "Mobile",
+      "image": "Samsung_Galaxy_S21_128GB_Black.jpg",
+      "name": "Galaxy S21 128GB Black",
+      "price": 999,
+      "skus": [
+        {
+          "sku": "65",
+          "color": "Black"
+        }
+      ],
+      "description": "Say hello to the newest edition to the Galaxy S21 family. Galaxy S21 FE 5G - Fan Edition. Jammed packed full of state-of-the-art flagship features without the price tag. Capture photos in stunning clarity with three lenses, ultra-wide, wide and telephoto and experience night photography to the fullest, making lo-lights the highlight of every feed. Get ready for dual video recording, a two-sided camera feature that lets you shoot the moment in one take, simultaneously. Design wise, the contour slim cut camera blends beautifully with the back of the phone - comes in Lavender, White, Graphite and Olive, an array of colours you’ll want to get your hands on. And, have the power to last with an impressive display, fast processor and powerful battery."
+    },
+    {
+      "id": 6,
+      "category": "Mobile",
+      "image": "Samsung_Galaxy_S21_128GB_Green.jpg",
+      "name": "Galaxy S21 128GB Green",
+      "price": 999,
+      "skus": [
+        {
+          "sku": "111",
+          "color": "Green"
+        }
+      ],
+      "description": "Say hello to the newest edition to the Galaxy S21 family. Galaxy S21 FE 5G - Fan Edition. Jammed packed full of state-of-the-art flagship features without the price tag. Capture photos in stunning clarity with three lenses, ultra-wide, wide and telephoto and experience night photography to the fullest, making lo-lights the highlight of every feed. Get ready for dual video recording, a two-sided camera feature that lets you shoot the moment in one take, simultaneously. Design wise, the contour slim cut camera blends beautifully with the back of the phone - comes in Lavender, White, Graphite and Olive, an array of colours you’ll want to get your hands on. And, have the power to last with an impressive display, fast processor and powerful battery."
+    }
+  ],
+  "shippingAddress": [
+    {
+      "id": 1,
+      "city": "",
+      "country": ""
+    },
+    {
+      "city": "Sydney",
+      "country": "United Kingdom",
+      "id": 2
+    },
+    {
+      "city": "A",
+      "country": "China",
+      "id": 3
+    },
+    {
+      "city": "as",
+      "country": "India",
+      "id": 4
+    },
+    {
+      "city": "Sydney",
+      "country": "China",
+      "id": 5
+    },
+    {
+      "city": "asd",
+      "country": "India",
+      "id": 6
+    },
+    {
+      "city": "Sydney",
+      "country": "United Kingdom",
+      "id": 7
+    },
+    {
+      "city": "Sydney",
+      "country": "China",
+      "id": 8
+    }
+  ]
+}
